@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Apurva @rainbowgal
+- 👋 Hi, I’m Apurva @rainbowgal. I am Test Engineer.
 - 👀 I’m interested in Test Automation, Test Management and Test Metrics 
 - 🌱 I’m currently learning Automation with Cypress
 - 💞️ I’m looking to collaborate on automating Tests.
